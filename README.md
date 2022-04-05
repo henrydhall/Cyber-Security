@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=7_LPdttKXPc&t=283s
 ## Good Articles, Books, and Sites to Look At
 * https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/
 * Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers - Andy Greenberg
+
+## Interview Questions
+* Explain what happens behind the scenes when you go to a website.
+* Explain TCP Handshake.
